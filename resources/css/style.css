@@ -3,12 +3,41 @@ body {
     text-align: center;
     font-family: Verdana, sans-serif;
 }
+.app {
+text-align: center;
+display: block;
+margin:0 auto;
+padding-top: 50px;
+}
+.video{
+    text-align:center;
+    margin:0 auto;
+    display: block;
+    max-height:400px ;
+    max-width: 1280px;
+}
+footer {
+    padding-right: 10px;
+}
 h1 {
     font-size: 50px;
     color: white;
 }
+h2 {
+    font-size: 42px;
+    font-weight: 300;
+    color: white;
+}
 h3 {
+    font-size: 21px;
+    color: gray;
+}
+h4 {
     color: aquamarine;
     font-size: 16px;
     text-decoration: underline;
+}
+h5 {
+    color:grey;
+    text-align: right;
 }
